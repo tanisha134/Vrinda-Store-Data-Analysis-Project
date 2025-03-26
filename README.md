@@ -3,4 +3,4 @@ Vrinda Store Data Analysis is an Excel-based project that explores sales trends,
 
 Vrinda Store Data Analysis
 
-![image alt]()
+![image alt](https://github.com/tanisha134/Vrinda-Store-Data-Analysis-project/blob/53ddb6f02ff086140446b0aebf059e24e202591f/4.png)
